@@ -1,5 +1,4 @@
 # task3
-# Python Basic Programs Bundle - Task 3
 
 Welcome to **Task 3** of the Python programming repository. This project is a comprehensive collection of fundamental Python scripts designed to solve real-world mathematical, financial, and health-related logic problems using clean, reusable, and efficient code practices.
 
